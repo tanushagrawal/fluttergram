@@ -10,10 +10,19 @@ Some of it's features are :
   
 
 
-##### Some features of this project are
+## Some features of this project are :
 * This uses an special encrytion for password
 * This is a serverless project using firebase as backend
-* You can crop,scale,zoom roatae and apply **FILTER** images
+* You can crop, scale, zoom, roatae and apply **FILTER** images
+  
+## Some features that is to be added to ** PROJECT ** :
+* Chatting with firestore
+* Group chat
+* Video Chat
+* Voice chat
+
+## UI Looks
+
   
   
 

@@ -75,13 +75,15 @@ class _MyAppState extends State<MyApp> {
     // Navigator.push(
     //     context, MaterialPageRoute(builder: (context) => HomePage()));
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       // home: CheckOtp(otp: "1234", phonenumber: "9652534488", pa: "qwerty123"),
 //      home: CreateUserProfile(phone: "798754",password: "879745dfsa",),
       // home: ResetPasswordScreen(phone: "9652534488"),
       initialRoute: '/',
 
       routes: {
-        '/': (context) => intialPage[0],
+        // '/': (context) => intialPage[0],
+        '/':(context)=> HomePage(),
         'register': (context) => RegisterPage(),
         'chat': (context) => Chatscreen(),
         'homepage': (context) => HomePage(),
