@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273132604355",
+    "firebase_url": "https://fluttergram128.firebaseio.com",
+    "project_id": "fluttergram128",
+    "storage_bucket": "fluttergram128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273132604355:android:295402c69bc9c1b3610b76",
+        "android_client_info": {
+          "package_name": "com.example.fluttergram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273132604355-d3ol19rkg296j2mfc5og91gbcmvamd87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfuK4PO5ZmDjuEaKnpLwVvxAP0mmjuaFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273132604355-d3ol19rkg296j2mfc5og91gbcmvamd87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
