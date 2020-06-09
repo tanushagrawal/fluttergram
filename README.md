@@ -22,8 +22,9 @@ Some of it's features are :
 * Voice chat
 
 ## UI Looks
-![alt text]( https://raw.githubusercontent.com/tanushagrawal/fluttergram/master/images/Screenshot_1591710525.png"Logo Title Text 1")
-  
+<img src="https://raw.githubusercontent.com/tanushagrawal/fluttergram/master/images/Screenshot_1591710525.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
   
 
 
