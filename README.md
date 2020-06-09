@@ -1,4 +1,4 @@
-# fluttergram
+# Fluttergram
 
 A new Flutter project.
 
